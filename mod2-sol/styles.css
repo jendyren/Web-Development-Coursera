@@ -1,0 +1,40 @@
+body {
+ margin: 0;
+ background-color: beige;
+ font-family:Verdana, Geneva, Tahoma, sans-serif             
+}
+
+#header {
+     color:rgb(143, 138, 128);
+     text-align: center;
+     background-color: rgb(66, 24, 21);
+     padding-top: 10px;
+     padding-bottom: 10px;
+}
+
+div {
+    background-color: gray;
+}
+
+p {
+    width: 400px;
+    height: 200px;
+    border: 1px solid white;
+    float: left;
+    margin-right: 10px;
+}
+#p1 {
+    background-color: orange;
+}
+
+#p2 {
+    background-color: teal;
+}
+
+#p3 {
+    background-color: blueviolet;
+}
+
+section {
+    clear: left;
+}
